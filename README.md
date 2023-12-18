@@ -1,10 +1,16 @@
 ### Hi there 👋
 
 #### AlterXYZ
-- My favorites are Programming, Philosophy, Economics, and Art...
-- I am learning Python, Docker, Electron with JS
-- Great learning sources: [Github Lab](https://lab.github.com/), [Edx](https://www.edx.org) etc...
-- Welcome study and do something together! [Blog\] (Coming soon\)
+
+My favorite areas of interest include Computer Science, Philosophy, Economics, and Art.
+
+#### Recently
+
+- Proficient in Python, C, Java, and Verilog (RISC-V)
+- Pioneering developer of early ChatGPT plugins
+- Actively seeking job opportunities in the Ontario, Canada area. If you have co-op openings or collaborations, please feel free to reach out to me via [Email](mailto:github.1vwpk@aleeas.com)
+
 ---
+
 - ☯ Taoist
 - ☮ May the Force be with you!
