@@ -12,7 +12,7 @@ Experienced in Docker, Virtual machines, Linux, NAS, Cryptography, and CyberSecu
 
 - Proficient in Python, C, Java, and Verilog (RISC-V)
 - Pioneering developer of early ChatGPT plugins
-- Currently working, organizing, and sharing
+- Currently working, [organizing, and sharing](https://github.com/alterxyz/MyOpenWorld)
 - Actively seeking job opportunities in the Ontario, Canada area. If you have co-op openings or collaborations, please feel free to reach out to me via [Email](mailto:github.1vwpk@aleeas.com)
 
 ---
